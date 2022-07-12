@@ -67,3 +67,7 @@ Si on est connecté, on a un bouton "Ajouter à mes envies" sur chaque produit. 
 ## Page admin
 
 Ajouter un role et une page admin pour ajouter des produits
+
+## Aller plus loin
+
+Imagine d'autres fonctionnalités et implémente les ;)
