@@ -14,6 +14,9 @@ Voici une liste d'exercices que tu peux réaliser dans l'ordre que tu veux, cert
 
 Pour tous ces exos, nous t'encourageons fortement à faire une branche par exo. N'hésite à merge ensuite sur master chaque exo pour t'entraîner. Tu peux même faire une Pull Request sur github, pour cela n'hésite à collaborer avec tes camarades.
 
+Avant de commencer pense à créer le .env et une nouvelle database si ce n'est pas déjà fait.
+Execute le script `create-table.js` pour créer les tables et faire le seeding via `node-create-table`
+
 ## Eviter les répétitions
 
 Dans les vues on a plein de répétitions notamment pour la balise head, header, footer, ... vois comment factoriser ça.
