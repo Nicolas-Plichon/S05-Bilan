@@ -10,9 +10,9 @@
 
 # Exos de révisions
 
-Voici une liste d'exercices que tu peux réaliser dans l'ordre que tu veux, certains te permettront de rêviser les notions de la saisons, d'autres d'aller plus loin. Choisis ce qui t'intéresse le plus.
+Voici une liste d'exercices que tu peux réaliser dans l'ordre que tu veux, certains te permettront de réviser les notions de la saisons, d'autres d'aller plus loin. Choisis ce qui t'intéresse le plus.
 
-Pour tous ces exos, nous t'encourageons fortement à faire une branche par exo. N'hésite à merge ensuite sur master chaque exo pour t'entrainer. Tu peux même faire une Pull Request sur github, pour cela n'hésite à collaborer avec tes camarades.
+Pour tous ces exos, nous t'encourageons fortement à faire une branche par exo. N'hésite à merge ensuite sur master chaque exo pour t'entraîner. Tu peux même faire une Pull Request sur github, pour cela n'hésite à collaborer avec tes camarades.
 
 ## Eviter les répétitions
 
@@ -26,11 +26,11 @@ Regarde le `mainController`, on ne gère pas le cas ou la BDD ne répondrait pas
 
 Créer une page pour lister les marques du site. Tâche de bien séparer les concepts avec le router, le controller et une vue.
 
-_N'hésite pas ajouter plus de marques dans le fichier create-table.js (puis le réexucter via `node create-table` pour voir plus de marques_
+_N'hésite pas ajouter plus de marques dans le fichier create-table.js (puis le réexécuter via `node create-table` pour voir plus de marques_
 
 ## Lister les produits d'une marque
 
-Au clic sur une marque, on veut voir une page avec la liste des produits de cette marque. Vois ce qu'il faut faire
+Au clic sur une marque, on veut voir une page avec la liste des produits de cette marque. Vois ce qu'il faut faire.
 
 ## Création d'un modèle catégorie
 
@@ -48,17 +48,17 @@ _Ajoute ces catégories dans le fichier create-table.js et à les associer à te
 
 ## Afficher les catégories
 
-Sur la page de détail d'un produit, affiche les catégories d'un produit
+Sur la page de détail d'un produit, affiche les catégories d'un produit.
 
 ## Moteur de recherche 
 
 Crée un formulaire de recherche par titre de produit. Il peut être dans le header ou sur une page dédiée comme tu préfères. A la validation du formulaire on arrive sur une page de résultat qui liste les produits correspondant au critère de recherche.
 
-En plus pourquoi pas permettre la recherche par catégorie et/ou par marque
+En plus pourquoi pas permettre la recherche par catégorie et/ou par marque.
 
 ## Inscription / connexion
 
-En te basant sur le boulot d'oquiz, ajoute un model user et les routes pour gérer la connexion et l'inscription
+En te basant sur le boulot d'OQuiz, ajoute un model `User` et les routes pour gérer la connexion et l'inscription
 
 ## Liste d'envie
 
